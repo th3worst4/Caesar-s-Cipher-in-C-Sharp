@@ -1,0 +1,8 @@
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\bin\Debug\Caesar's Cipher.exe.config
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\bin\Debug\Caesar's Cipher.exe
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\bin\Debug\Caesar's Cipher.pdb
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\obj\Debug\Caesar's Cipher.csproj.AssemblyReference.cache
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\obj\Debug\Caesar's Cipher.csproj.SuggestedBindingRedirects.cache
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\obj\Debug\Caesar's Cipher.csproj.CoreCompileInputs.cache
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\obj\Debug\Caesar's Cipher.exe
+G:\Outros computadores\CAIODESKTOP\Visual Studio\C#\Caesar-s-Cipher-in-C-Sharp\Caesar's Cipher\obj\Debug\Caesar's Cipher.pdb
